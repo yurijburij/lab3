@@ -1,0 +1,1 @@
+ALTER TABLE [Запис санаторію] DROP CONSTRAINT Обладнання

@@ -1,0 +1,1 @@
+ALTER TABLE Послуги ALTER COLUMN [Опис послуги] char(500) NOT NULL;
